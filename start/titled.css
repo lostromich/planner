@@ -1,0 +1,30 @@
+#month{
+	display:inline-block;
+	border: 2px solid black;
+}
+#header {
+    width:100%;
+    height:3.5em;
+    border:2px solid black;
+    position:relative;
+    margin:0;
+    padding:0;
+	text-align: center;
+}
+#thwrapper {
+	border: 2px solid black;
+    display: inline-block;
+}
+#timeheader {
+	display: inline-block;
+}
+#logInForm {
+	position:fixed;
+	margin-left:30%;
+	margin-top:none;
+	height:300px;
+	width:300px;
+	border: 1px solid black;
+	display:none;
+	font-family:Quicksand;
+}
